@@ -1,0 +1,201 @@
+﻿Order ID;Product Category;Quantity; Unit Price ;Total Price;Order Date;Delivery Date;Location;Supplier;Status
+ORD-00017;Automotive;79; $629.31 ; $49,715.49 ;2023-11-24;2024-04-08;New York;Supplier D;Canceled
+ORD-00032;Automotive;98; $98.85 ; $9,687.30 ;2023-12-01;2023-10-03;Chicago;Supplier D;Canceled
+ORD-00033;Automotive;443; $730.43 ; $323,580.49 ;2024-05-22;2024-05-16;New York;Supplier A;Canceled
+ORD-00051;Automotive;368; $346.17 ; $127,390.56 ;2024-05-07;2024-10-24;Dallas;Supplier E;Canceled
+ORD-00075;Automotive;234; $417.37 ; $97,664.58 ;2024-03-23;2023-06-01;Los Angeles;Supplier D;Canceled
+ORD-00133;Automotive;356; $497.99 ; $177,284.44 ;2023-11-08;2024-09-23;Miami;Supplier A;Canceled
+ORD-00160;Automotive;328; $962.22 ; $315,608.16 ;2023-07-14;2023-12-21;Dallas;Supplier B;Canceled
+ORD-00004;Clothing;113; $451.96 ; $51,071.48 ;2024-09-20;2024-11-06;New York;Supplier B;Canceled
+ORD-00015;Clothing;382; $563.56 ; $215,279.92 ;2024-08-03;2024-03-30;Chicago;Supplier E;Canceled
+ORD-00038;Clothing;2; $985.38 ; $1,970.76 ;2024-12-20;2024-09-01;Chicago;Supplier C;Canceled
+ORD-00065;Clothing;177; $729.90 ; $129,192.30 ;2023-12-05;2024-04-15;Miami;Supplier A;Canceled
+ORD-00127;Clothing;64; $471.35 ; $30,166.40 ;2024-06-27;2023-11-09;Dallas;Supplier E;Canceled
+ORD-00130;Clothing;392; $673.92 ; $264,176.64 ;2024-03-23;2023-02-01;San Francisco;Supplier D;Canceled
+ORD-00132;Clothing;179; $411.31 ; $73,624.49 ;2024-06-04;2023-03-23;San Francisco;Supplier C;Canceled
+ORD-00145;Clothing;276; $486.92 ; $134,389.92 ;2024-03-04;2024-08-15;Miami;Supplier D;Canceled
+ORD-00158;Clothing;119; $463.84 ; $55,196.96 ;2023-12-23;2023-07-18;Los Angeles;Supplier A;Canceled
+ORD-00177;Clothing;316; $411.08 ; $129,901.28 ;2023-01-26;2024-06-20;Dallas;Supplier B;Canceled
+ORD-00012;Electronics;351; $327.66 ; $115,008.66 ;2023-06-27;2024-09-30;New York;Supplier C;Canceled
+ORD-00034;Electronics;373; $342.61 ; $127,793.53 ;2023-07-13;2023-05-29;San Francisco;Supplier E;Canceled
+ORD-00090;Electronics;444; $464.39 ; $206,189.16 ;2023-07-22;2023-10-22;Dallas;Supplier B;Canceled
+ORD-00147;Electronics;439; $776.67 ; $340,958.13 ;2023-09-05;2024-08-01;Chicago;Supplier D;Canceled
+ORD-00198;Electronics;308; $315.89 ; $97,294.12 ;2024-03-24;2024-01-30;San Francisco;Supplier B;Canceled
+ORD-00079;Food;487; $756.47 ; $368,400.89 ;2024-04-20;2024-09-25;Los Angeles;Supplier E;Canceled
+ORD-00080;Food;426; $907.32 ; $386,518.32 ;2024-11-27;2023-05-04;Los Angeles;Supplier D;Canceled
+ORD-00087;Food;250; $223.32 ; $55,830.00 ;2024-01-13;2023-01-23;Chicago;Supplier C;Canceled
+ORD-00109;Food;284; $533.27 ; $151,448.68 ;2024-08-02;2024-03-03;Dallas;Supplier C;Canceled
+ORD-00116;Food;495; $56.12 ; $27,779.40 ;2023-03-30;2024-09-30;New York;Supplier D;Canceled
+ORD-00119;Food;398; $524.96 ; $208,934.08 ;2024-12-06;2023-12-10;Dallas;Supplier E;Canceled
+ORD-00141;Food;213; $835.55 ; $177,972.15 ;2023-07-09;2023-12-21;Miami;Supplier B;Canceled
+ORD-00175;Food;455; $539.86 ; $245,636.30 ;2023-12-19;2023-10-16;Los Angeles;Supplier E;Canceled
+ORD-00185;Food;27; $131.12 ; $3,540.24 ;2024-02-13;2023-03-30;Los Angeles;Supplier A;Canceled
+ORD-00005;Furniture;175; $281.48 ; $49,259.00 ;2024-08-16;2023-09-19;New York;Supplier A;Canceled
+ORD-00037;Furniture;209; $488.21 ; $102,035.89 ;2024-11-02;2023-11-08;New York;Supplier B;Canceled
+ORD-00042;Furniture;492; $510.29 ; $251,062.68 ;2023-02-23;2024-04-07;New York;Supplier B;Canceled
+ORD-00053;Furniture;2; $336.89 ; $673.78 ;2024-05-09;2023-07-23;San Francisco;Supplier D;Canceled
+ORD-00064;Furniture;450; $970.55 ; $436,747.50 ;2024-03-26;2023-07-26;New York;Supplier A;Canceled
+ORD-00103;Furniture;143; $882.22 ; $126,157.46 ;2024-08-05;2023-12-27;Miami;Supplier E;Canceled
+ORD-00108;Furniture;114; $407.38 ; $46,441.32 ;2023-08-26;2024-05-30;Miami;Supplier C;Canceled
+ORD-00150;Furniture;210; $871.58 ; $183,031.80 ;2023-02-28;2023-12-31;Dallas;Supplier C;Canceled
+ORD-00176;Furniture;301; $743.56 ; $223,811.56 ;2024-11-18;2023-11-19;Los Angeles;Supplier A;Canceled
+ORD-00003;Pharmaceuticals;48; $222.54 ; $10,681.92 ;2024-04-12;2023-01-21;Miami;Supplier B;Canceled
+ORD-00013;Pharmaceuticals;138; $70.86 ; $9,778.68 ;2024-11-11;2024-07-11;Dallas;Supplier B;Canceled
+ORD-00022;Pharmaceuticals;391; $165.74 ; $64,804.34 ;2024-12-14;2023-01-01;Miami;Supplier C;Canceled
+ORD-00025;Pharmaceuticals;66; $661.45 ; $43,655.70 ;2023-05-09;2023-07-25;Miami;Supplier E;Canceled
+ORD-00031;Pharmaceuticals;371; $935.84 ; $347,196.64 ;2024-03-23;2024-01-03;San Francisco;Supplier D;Canceled
+ORD-00068;Pharmaceuticals;369; $900.55 ; $332,302.95 ;2023-08-29;2024-06-01;Chicago;Supplier C;Canceled
+ORD-00071;Pharmaceuticals;108; $432.74 ; $46,735.92 ;2024-04-16;2024-05-23;Dallas;Supplier D;Canceled
+ORD-00085;Pharmaceuticals;427; $423.04 ; $180,638.08 ;2024-06-24;2023-01-16;Miami;Supplier D;Canceled
+ORD-00096;Pharmaceuticals;494; $314.48 ; $155,353.12 ;2023-01-20;2024-12-22;Dallas;Supplier E;Canceled
+ORD-00101;Pharmaceuticals;223; $180.26 ; $40,197.98 ;2024-05-20;2023-07-29;Miami;Supplier E;Canceled
+ORD-00126;Pharmaceuticals;85; $793.67 ; $67,461.95 ;2024-08-04;2024-10-02;Miami;Supplier C;Canceled
+ORD-00131;Pharmaceuticals;470; $281.77 ; $132,431.90 ;2023-12-05;2024-05-08;Chicago;Supplier A;Canceled
+ORD-00144;Pharmaceuticals;145; $727.42 ; $105,475.90 ;2024-03-26;2024-05-27;Chicago;Supplier B;Canceled
+ORD-00190;Pharmaceuticals;34; $130.56 ; $4,439.04 ;2024-05-06;2024-03-30;Miami;Supplier C;Canceled
+ORD-00192;Pharmaceuticals;437; $656.44 ; $286,864.28 ;2024-07-13;2024-11-03;San Francisco;Supplier D;Canceled
+ORD-00196;Pharmaceuticals;285; $64.68 ; $18,433.80 ;2024-03-12;2023-09-14;Los Angeles;Supplier A;Canceled
+ORD-00021;Automotive;446; $627.17 ; $279,717.82 ;2024-01-30;2024-04-18;San Francisco;Supplier B;Delayed
+ORD-00029;Automotive;4; $75.64 ; $302.56 ;2023-02-15;2023-06-27;New York;Supplier A;Delayed
+ORD-00073;Automotive;146; $517.87 ; $75,609.02 ;2024-04-25;2023-09-18;New York;Supplier B;Delayed
+ORD-00082;Automotive;141; $442.67 ; $62,416.47 ;2023-08-10;2023-07-02;Dallas;Supplier C;Delayed
+ORD-00094;Automotive;123; $130.59 ; $16,062.57 ;2023-03-30;2024-03-14;San Francisco;Supplier D;Delayed
+ORD-00107;Automotive;354; $478.71 ; $169,463.34 ;2024-01-17;2023-12-15;New York;Supplier A;Delayed
+ORD-00111;Automotive;381; $538.18 ; $205,046.58 ;2023-05-24;2023-05-29;San Francisco;Supplier D;Delayed
+ORD-00117;Automotive;38; $579.14 ; $22,007.32 ;2023-02-11;2023-04-28;San Francisco;Supplier E;Delayed
+ORD-00123;Automotive;148; $708.42 ; $104,846.16 ;2024-10-29;2023-12-19;New York;Supplier B;Delayed
+ORD-00136;Automotive;319; $757.66 ; $241,693.54 ;2023-12-10;2024-08-13;New York;Supplier B;Delayed
+ORD-00148;Automotive;340; $793.43 ; $269,766.20 ;2023-04-29;2024-01-20;New York;Supplier B;Delayed
+ORD-00187;Automotive;485; $617.03 ; $299,259.55 ;2024-08-31;2024-12-06;Los Angeles;Supplier E;Delayed
+ORD-00049;Clothing;342; $818.02 ; $279,762.84 ;2024-12-24;2024-05-30;New York;Supplier B;Delayed
+ORD-00062;Clothing;338; $197.16 ; $66,640.08 ;2023-08-05;2024-11-02;New York;Supplier C;Delayed
+ORD-00104;Clothing;173; $33.56 ; $5,805.88 ;2023-05-22;2024-01-14;San Francisco;Supplier C;Delayed
+ORD-00113;Clothing;117; $364.08 ; $42,597.36 ;2023-01-11;2024-07-03;Miami;Supplier B;Delayed
+ORD-00151;Clothing;333; $84.91 ; $28,275.03 ;2024-10-24;2024-06-07;Miami;Supplier D;Delayed
+ORD-00167;Clothing;68; $787.58 ; $53,555.44 ;2024-02-17;2024-01-25;Dallas;Supplier B;Delayed
+ORD-00178;Clothing;228; $950.80 ; $216,782.40 ;2023-03-19;2024-06-16;Dallas;Supplier E;Delayed
+ORD-00182;Clothing;417; $870.35 ; $362,935.95 ;2024-08-24;2023-04-25;Miami;Supplier A;Delayed
+ORD-00199;Clothing;115; $848.04 ; $97,524.60 ;2024-10-18;2024-03-08;Dallas;Supplier A;Delayed
+ORD-00007;Electronics;499; $922.68 ; $460,417.32 ;2024-03-04;2023-08-16;Los Angeles;Supplier E;Delayed
+ORD-00040;Electronics;152; $221.61 ; $33,684.72 ;2024-03-25;2024-07-25;Miami;Supplier A;Delayed
+ORD-00128;Electronics;225; $85.04 ; $19,134.00 ;2024-11-21;2023-12-02;Los Angeles;Supplier C;Delayed
+ORD-00165;Electronics;463; $629.32 ; $291,375.16 ;2023-08-28;2024-09-04;Chicago;Supplier A;Delayed
+ORD-00170;Electronics;47; $791.73 ; $37,211.31 ;2023-07-25;2024-02-21;New York;Supplier D;Delayed
+ORD-00070;Food;316; $571.26 ; $180,518.16 ;2024-03-01;2024-10-09;New York;Supplier C;Delayed
+ORD-00078;Food;470; $849.09 ; $399,072.30 ;2023-04-14;2024-09-14;Chicago;Supplier E;Delayed
+ORD-00135;Food;337; $870.02 ; $293,196.74 ;2023-11-17;2023-02-12;San Francisco;Supplier E;Delayed
+ORD-00140;Food;332; $832.98 ; $276,549.36 ;2024-12-25;2024-07-10;Dallas;Supplier E;Delayed
+ORD-00163;Food;467; $608.37 ; $284,108.79 ;2024-10-08;2024-12-03;Dallas;Supplier B;Delayed
+ORD-00197;Food;182; $874.24 ; $159,111.68 ;2024-11-05;2024-12-12;Los Angeles;Supplier A;Delayed
+ORD-00045;Furniture;123; $269.29 ; $33,122.67 ;2024-06-05;2024-05-16;Dallas;Supplier D;Delayed
+ORD-00058;Furniture;500; $800.89 ; $400,445.00 ;2024-11-15;2023-11-17;New York;Supplier B;Delayed
+ORD-00161;Furniture;437; $485.79 ; $212,290.23 ;2023-10-24;2024-03-20;Dallas;Supplier E;Delayed
+ORD-00169;Furniture;240; $963.08 ; $231,139.20 ;2024-08-08;2023-06-25;Los Angeles;Supplier D;Delayed
+ORD-00184;Furniture;68; $19.79 ; $1,345.72 ;2024-04-02;2023-09-09;New York;Supplier B;Delayed
+ORD-00018;Pharmaceuticals;306; $996.14 ; $304,818.84 ;2023-07-15;2024-03-05;New York;Supplier A;Delayed
+ORD-00026;Pharmaceuticals;494; $215.74 ; $106,575.56 ;2024-08-09;2024-07-20;Los Angeles;Supplier B;Delayed
+ORD-00044;Pharmaceuticals;215; $659.09 ; $141,704.35 ;2024-02-11;2023-09-03;Dallas;Supplier B;Delayed
+ORD-00055;Pharmaceuticals;428; $372.37 ; $159,374.36 ;2023-04-26;2023-11-30;San Francisco;Supplier A;Delayed
+ORD-00112;Pharmaceuticals;371; $591.64 ; $219,498.44 ;2024-04-08;2023-08-08;New York;Supplier B;Delayed
+ORD-00138;Pharmaceuticals;15; $973.28 ; $14,599.20 ;2024-09-12;2023-07-05;Los Angeles;Supplier B;Delayed
+ORD-00142;Pharmaceuticals;98; $922.26 ; $90,381.48 ;2024-08-02;2024-11-13;San Francisco;Supplier A;Delayed
+ORD-00159;Pharmaceuticals;462; $291.19 ; $134,529.78 ;2023-05-03;2023-02-27;Chicago;Supplier C;Delayed
+ORD-00001;Automotive;328; $115.77 ; $37,972.56 ;2023-08-02;2023-07-10;San Francisco;Supplier B;Delivered
+ORD-00020;Automotive;489; $723.48 ; $353,781.72 ;2023-07-24;2024-01-24;San Francisco;Supplier E;Delivered
+ORD-00027;Automotive;205; $995.17 ; $204,009.85 ;2023-10-18;2023-12-07;Miami;Supplier D;Delivered
+ORD-00063;Automotive;329; $511.86 ; $168,401.94 ;2024-10-17;2024-02-21;Dallas;Supplier A;Delivered
+ORD-00067;Automotive;187; $434.14 ; $81,184.18 ;2024-12-16;2023-09-14;Miami;Supplier C;Delivered
+ORD-00098;Automotive;357; $773.62 ; $276,182.34 ;2024-04-11;2024-09-17;New York;Supplier E;Delivered
+ORD-00099;Automotive;178; $535.08 ; $95,244.24 ;2023-10-15;2023-02-23;Miami;Supplier C;Delivered
+ORD-00102;Automotive;239; $438.40 ; $104,777.60 ;2024-04-05;2023-07-28;Dallas;Supplier B;Delivered
+ORD-00129;Automotive;14; $95.87 ; $1,342.18 ;2024-10-11;2024-10-30;Miami;Supplier E;Delivered
+ORD-00162;Automotive;359; $298.75 ; $107,251.25 ;2023-11-04;2023-08-02;New York;Supplier E;Delivered
+ORD-00194;Automotive;161; $429.63 ; $69,170.43 ;2023-07-17;2023-10-18;San Francisco;Supplier D;Delivered
+ORD-00006;Clothing;50; $362.18 ; $18,109.00 ;2024-04-13;2023-07-25;New York;Supplier D;Delivered
+ORD-00023;Clothing;10; $116.31 ; $1,163.10 ;2024-11-13;2024-10-07;Dallas;Supplier B;Delivered
+ORD-00035;Clothing;72; $424.77 ; $30,583.44 ;2023-12-26;2023-07-14;New York;Supplier D;Delivered
+ORD-00061;Clothing;419; $918.86 ; $385,002.34 ;2023-08-26;2024-09-29;San Francisco;Supplier B;Delivered
+ORD-00134;Clothing;46; $317.94 ; $14,625.24 ;2023-04-01;2024-08-23;Chicago;Supplier E;Delivered
+ORD-00137;Clothing;282; $135.36 ; $38,171.52 ;2023-12-07;2024-11-15;Los Angeles;Supplier D;Delivered
+ORD-00153;Clothing;121; $633.01 ; $76,594.21 ;2023-06-26;2024-08-03;New York;Supplier D;Delivered
+ORD-00171;Clothing;345; $750.27 ; $258,843.15 ;2024-03-30;2023-10-23;Los Angeles;Supplier C;Delivered
+ORD-00193;Clothing;455; $232.35 ; $105,719.25 ;2024-10-04;2023-12-19;Chicago;Supplier D;Delivered
+ORD-00008;Electronics;296; $196.33 ; $58,113.68 ;2023-02-05;2024-05-28;San Francisco;Supplier C;Delivered
+ORD-00019;Electronics;394; $642.76 ; $253,247.44 ;2023-08-16;2023-12-04;San Francisco;Supplier D;Delivered
+ORD-00046;Electronics;476; $753.11 ; $358,480.36 ;2023-01-08;2023-12-22;Miami;Supplier E;Delivered
+ORD-00052;Electronics;129; $905.81 ; $116,849.49 ;2023-03-13;2024-05-07;Chicago;Supplier C;Delivered
+ORD-00054;Electronics;288; $14.62 ; $4,210.56 ;2024-11-16;2024-06-20;San Francisco;Supplier E;Delivered
+ORD-00056;Electronics;187; $899.49 ; $168,204.63 ;2024-11-29;2023-10-05;San Francisco;Supplier B;Delivered
+ORD-00154;Electronics;390; $635.58 ; $247,876.20 ;2023-12-11;2023-05-10;Los Angeles;Supplier C;Delivered
+ORD-00188;Electronics;235; $645.12 ; $151,603.20 ;2023-02-17;2024-01-08;Chicago;Supplier D;Delivered
+ORD-00041;Food;30; $54.89 ; $1,646.70 ;2024-01-26;2024-12-15;Miami;Supplier B;Delivered
+ORD-00048;Food;190; $288.56 ; $54,826.40 ;2024-10-09;2024-02-26;Los Angeles;Supplier C;Delivered
+ORD-00088;Food;371; $169.22 ; $62,780.62 ;2024-12-15;2023-04-10;Miami;Supplier E;Delivered
+ORD-00091;Food;168; $340.81 ; $57,256.08 ;2023-08-05;2024-08-07;Chicago;Supplier C;Delivered
+ORD-00139;Food;283; $18.61 ; $5,266.63 ;2023-03-14;2023-06-24;New York;Supplier D;Delivered
+ORD-00143;Food;396; $791.06 ; $313,259.76 ;2023-09-21;2024-12-26;Miami;Supplier C;Delivered
+ORD-00152;Food;321; $720.12 ; $231,158.52 ;2024-11-08;2024-02-25;New York;Supplier E;Delivered
+ORD-00168;Food;468; $825.57 ; $386,366.76 ;2024-09-18;2023-08-18;Los Angeles;Supplier C;Delivered
+ORD-00173;Food;332; $67.90 ; $22,542.80 ;2024-12-07;2024-06-28;Dallas;Supplier D;Delivered
+ORD-00191;Food;306; $532.90 ; $163,067.40 ;2024-01-28;2024-04-15;Chicago;Supplier A;Delivered
+ORD-00200;Food;294; $230.03 ; $67,628.82 ;2024-10-18;2024-03-11;Miami;Supplier E;Delivered
+ORD-00016;Furniture;186; $223.22 ; $41,518.92 ;2024-01-31;2024-01-19;New York;Supplier A;Delivered
+ORD-00074;Furniture;116; $807.53 ; $93,673.48 ;2023-01-19;2023-02-05;San Francisco;Supplier D;Delivered
+ORD-00097;Furniture;204; $941.76 ; $192,119.04 ;2023-03-01;2024-04-04;Los Angeles;Supplier B;Delivered
+ORD-00110;Furniture;139; $310.09 ; $43,102.51 ;2023-04-04;2024-07-14;San Francisco;Supplier C;Delivered
+ORD-00125;Furniture;279; $228.69 ; $63,804.51 ;2024-12-06;2023-07-26;San Francisco;Supplier A;Delivered
+ORD-00183;Furniture;440; $984.11 ; $433,008.40 ;2024-02-24;2023-07-14;San Francisco;Supplier A;Delivered
+ORD-00002;Pharmaceuticals;347; $741.96 ; $257,460.12 ;2023-03-09;2024-04-03;Chicago;Supplier A;Delivered
+ORD-00043;Pharmaceuticals;62; $941.89 ; $58,397.18 ;2023-07-11;2024-03-25;Miami;Supplier A;Delivered
+ORD-00072;Pharmaceuticals;227; $677.25 ; $153,735.75 ;2024-01-03;2024-09-08;Los Angeles;Supplier B;Delivered
+ORD-00092;Pharmaceuticals;241; $24.29 ; $5,853.89 ;2023-02-10;2023-09-29;San Francisco;Supplier A;Delivered
+ORD-00105;Pharmaceuticals;175; $283.26 ; $49,570.50 ;2024-06-28;2024-11-14;Dallas;Supplier E;Delivered
+ORD-00114;Pharmaceuticals;24; $974.42 ; $23,386.08 ;2023-08-15;2024-06-25;San Francisco;Supplier D;Delivered
+ORD-00124;Pharmaceuticals;404; $792.29 ; $320,085.16 ;2024-05-28;2024-09-16;San Francisco;Supplier D;Delivered
+ORD-00164;Pharmaceuticals;113; $638.43 ; $72,142.59 ;2023-07-14;2024-06-10;Los Angeles;Supplier B;Delivered
+ORD-00010;Automotive;190; $358.49 ; $68,113.10 ;2023-07-27;2024-06-29;Los Angeles;Supplier A;In Transit
+ORD-00014;Automotive;203; $885.26 ; $179,707.78 ;2023-12-23;2023-04-21;Dallas;Supplier B;In Transit
+ORD-00050;Automotive;60; $890.26 ; $53,415.60 ;2024-03-05;2023-05-01;Dallas;Supplier C;In Transit
+ORD-00059;Automotive;401; $931.16 ; $373,395.16 ;2024-11-02;2024-07-24;San Francisco;Supplier C;In Transit
+ORD-00076;Automotive;205; $247.76 ; $50,790.80 ;2024-06-18;2023-01-05;New York;Supplier D;In Transit
+ORD-00077;Automotive;91; $805.09 ; $73,263.19 ;2024-02-07;2023-12-27;New York;Supplier E;In Transit
+ORD-00081;Automotive;133; $753.02 ; $100,151.66 ;2023-08-04;2024-08-17;Miami;Supplier D;In Transit
+ORD-00122;Automotive;2; $411.47 ; $822.94 ;2024-04-06;2023-12-31;Dallas;Supplier A;In Transit
+ORD-00028;Clothing;127; $228.57 ; $29,028.39 ;2023-01-17;2024-04-01;Miami;Supplier B;In Transit
+ORD-00030;Clothing;37; $516.59 ; $19,113.83 ;2024-06-03;2024-01-13;San Francisco;Supplier E;In Transit
+ORD-00066;Clothing;461; $578.71 ; $266,785.31 ;2023-02-04;2024-07-04;Chicago;Supplier A;In Transit
+ORD-00084;Clothing;33; $417.79 ; $13,787.07 ;2024-02-26;2023-12-28;Chicago;Supplier A;In Transit
+ORD-00086;Clothing;4; $943.03 ; $3,772.12 ;2024-08-08;2023-10-30;Chicago;Supplier E;In Transit
+ORD-00115;Clothing;447; $17.20 ; $7,688.40 ;2023-12-31;2024-01-07;Chicago;Supplier C;In Transit
+ORD-00166;Clothing;375; $135.75 ; $50,906.25 ;2023-09-11;2024-08-03;Chicago;Supplier B;In Transit
+ORD-00009;Electronics;438; $236.63 ; $103,643.94 ;2023-10-23;2023-08-04;Chicago;Supplier C;In Transit
+ORD-00024;Electronics;124; $878.62 ; $108,948.88 ;2023-03-08;2024-07-22;Chicago;Supplier A;In Transit
+ORD-00106;Electronics;265; $948.32 ; $251,304.80 ;2023-07-07;2024-07-13;Chicago;Supplier D;In Transit
+ORD-00118;Electronics;44; $993.95 ; $43,733.80 ;2024-03-09;2024-08-16;Chicago;Supplier E;In Transit
+ORD-00120;Electronics;157; $570.79 ; $89,614.03 ;2024-04-18;2024-07-28;New York;Supplier B;In Transit
+ORD-00155;Electronics;24; $327.75 ; $7,866.00 ;2023-08-16;2023-10-06;Dallas;Supplier D;In Transit
+ORD-00172;Electronics;346; $237.65 ; $82,226.90 ;2024-04-26;2024-11-17;Miami;Supplier C;In Transit
+ORD-00174;Electronics;72; $50.12 ; $3,608.64 ;2023-08-25;2024-01-18;New York;Supplier A;In Transit
+ORD-00180;Electronics;329; $641.30 ; $210,987.70 ;2023-02-09;2024-09-03;Dallas;Supplier B;In Transit
+ORD-00181;Electronics;403; $566.76 ; $228,404.28 ;2024-10-06;2024-08-17;Miami;Supplier B;In Transit
+ORD-00195;Electronics;47; $832.61 ; $39,132.67 ;2023-12-02;2023-03-17;Los Angeles;Supplier C;In Transit
+ORD-00057;Food;182; $781.22 ; $142,182.04 ;2024-04-27;2024-08-05;San Francisco;Supplier B;In Transit
+ORD-00060;Food;404; $702.77 ; $283,919.08 ;2024-11-08;2023-01-31;Chicago;Supplier B;In Transit
+ORD-00100;Food;435; $422.96 ; $183,987.60 ;2023-03-23;2023-12-03;Dallas;Supplier D;In Transit
+ORD-00149;Food;446; $104.86 ; $46,767.56 ;2023-03-19;2024-02-13;Chicago;Supplier A;In Transit
+ORD-00157;Food;41; $611.44 ; $25,069.04 ;2024-04-26;2024-06-14;San Francisco;Supplier D;In Transit
+ORD-00189;Food;252; $713.84 ; $179,887.68 ;2023-02-27;2024-11-29;New York;Supplier C;In Transit
+ORD-00011;Furniture;274; $730.48 ; $200,151.52 ;2023-12-26;2023-10-22;Dallas;Supplier E;In Transit
+ORD-00069;Furniture;357; $299.18 ; $106,807.26 ;2023-05-30;2023-11-23;Los Angeles;Supplier D;In Transit
+ORD-00083;Furniture;458; $542.45 ; $248,442.10 ;2023-04-28;2023-06-29;Chicago;Supplier B;In Transit
+ORD-00093;Furniture;387; $35.87 ; $13,881.69 ;2023-06-04;2024-10-13;New York;Supplier E;In Transit
+ORD-00121;Furniture;136; $662.13 ; $90,049.68 ;2023-07-06;2023-05-16;Miami;Supplier A;In Transit
+ORD-00146;Furniture;478; $325.17 ; $155,431.26 ;2024-06-25;2023-07-05;Miami;Supplier D;In Transit
+ORD-00179;Furniture;32; $401.15 ; $12,836.80 ;2023-04-05;2024-10-20;Chicago;Supplier A;In Transit
+ORD-00036;Pharmaceuticals;26; $653.88 ; $17,000.88 ;2024-10-11;2023-01-12;New York;Supplier B;In Transit
+ORD-00039;Pharmaceuticals;357; $957.53 ; $341,838.21 ;2024-05-29;2024-07-12;Chicago;Supplier B;In Transit
+ORD-00047;Pharmaceuticals;38; $539.95 ; $20,518.10 ;2023-07-25;2023-04-13;Dallas;Supplier A;In Transit
+ORD-00089;Pharmaceuticals;465; $397.05 ; $184,628.25 ;2024-05-29;2023-01-22;New York;Supplier D;In Transit
+ORD-00095;Pharmaceuticals;393; $372.05 ; $146,215.65 ;2024-04-16;2024-08-03;Los Angeles;Supplier A;In Transit
+ORD-00156;Pharmaceuticals;126; $533.51 ; $67,222.26 ;2024-06-13;2024-09-07;San Francisco;Supplier B;In Transit
+ORD-00186;Pharmaceuticals;230; $779.13 ; $179,199.90 ;2024-04-06;2023-03-26;Chicago;Supplier E;In Transit
